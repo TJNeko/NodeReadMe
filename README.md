@@ -1,8 +1,8 @@
 
-# dfg
+# NodeREADME
 
 ## Description
-dfg
+this project is used for developers who want an easy way in the terminal to write a README for their projects
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,21 +13,21 @@ dfg
 - [Questions](#questions)
 
 ## Installation
-dfg
+N/A
 
 ## Usage
-dfg
+right click on the index file and open with terminal, then type node index.js into the terminal after that the terminal will ask you questions, answer them all and it will create a README file with the info for you.
 
 ## License
 This application is covered under the MIT license.
 
 ## Contributing
-dfg
+N/A
 
 ## Tests
-dfg
+N/A
 
 ## Questions
-For additional questions, contact me via GitHub: [dfg](https://github.com/dfg)  
-or email: dfg
+For additional questions, contact me via GitHub: [TJNeko](https://github.com/TJNeko)  
+or email: nekoteej@gmail.com
     
